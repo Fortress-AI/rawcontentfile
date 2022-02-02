@@ -25,6 +25,7 @@ c.s-microsoft.com
 cdn.cloudflare.net
 cdn.embedly.com
 cdn.optimizely.com
+link.mail.bloombergbusiness.com/
 cdn.vidible.tv
 cdn2.optimizely.com
 cdn3.optimizely.com
