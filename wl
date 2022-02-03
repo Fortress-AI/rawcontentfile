@@ -1,5 +1,6 @@
 ## edited by BV on 1/28/22
 
+termius.com
 apple.com
 0.client-channel.google.com
 1drv.com
