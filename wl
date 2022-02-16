@@ -1,5 +1,6 @@
 ## edited by BV on 2/15/22
 
+ring.com
 termius.com
 apple.com
 0.client-channel.google.com
